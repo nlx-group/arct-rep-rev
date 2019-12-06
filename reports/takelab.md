@@ -32,5 +32,29 @@ The **replication source code** can be found at:
 
 * [SVM classifier](takelab_svm.py)
 
-For running the Python (3.5) code the following packages are required:
-* `Numpy`
+* [Pipenv lock file](takelab_Pipfile.lock)
+
+We used Python 3.6.7.
+
+Pipenv graph:
+
+```
+nltk==3.4.5
+  - singledispatch [required: Any, installed: 3.4.0.3]
+    - six [required: Any, installed: 1.12.0]
+  - six [required: Any, installed: 1.12.0]
+skipthoughts==0.0.1
+  - numpy [required: Any, installed: 1.16.5]
+  - torch [required: Any, installed: 1.3.0]
+    - future [required: Any, installed: 0.18.0]
+    - numpy [required: Any, installed: 1.16.5]
+sklearn==0.0
+  - scikit-learn [required: Any, installed: 0.20.0]
+    - numpy [required: >=1.8.2, installed: 1.16.5]
+    - scipy [required: >=0.13.3, installed: 1.2.2]
+      - numpy [required: >=1.8.2, installed: 1.16.5]
+Theano==0.7.0
+  - numpy [required: >=1.6.2, installed: 1.16.5]
+  - scipy [required: >=0.11, installed: 1.2.2]
+    - numpy [required: >=1.8.2, installed: 1.16.5]
+```
