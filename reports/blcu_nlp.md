@@ -16,7 +16,7 @@ We decided to run the system ten times and choose the best five models to reprod
 It took one person less than one working day to reproduce this system.
 Obtaining ten models took less than two hours.
 
-We obtained a score of 0.642, 0.036 points higher than that reported in \arct.
+We obtained a score of 0.642, 0.036 points higher than that reported in the Argument Reasoning Comprehension Task.
 We hypothesize that the number of total models, from which the best five models were selected, is the reason for the difference from the original score and the one we obtained.
 A possibility is that the authors picked five models from a larger set than ours and the models had higher overfitting to the development set than ours.
 Some details were missing from the reference paper but that did not prevent us from reproducing the system using the provided source code.
