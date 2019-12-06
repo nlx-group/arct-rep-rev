@@ -34,7 +34,6 @@ The **replication source code** can be found at:
 
 * [Pipenv lock file](takelab_Pipfile.lock)
 
-We used Python 3.6.7.
 
 Pipenv graph:
 
