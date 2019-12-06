@@ -32,9 +32,10 @@ The ranking and scores of the systems submitted to the ARCT task are presented i
 A survey of the description papers and how they stand concerning the reproducibility indicators is also presented in Table 2.
 
 The results from the re-evaluation of the six systems reproduced with the revised data set are presented in Table 3.
- 
 
-<img src="datasets_info.png" width="420px">
+ <p align="center">
+  <img width="420px" src="datasets_info.png">
+</p>
 
 ![Reproduction survey](reproduction_survey.png)
 
