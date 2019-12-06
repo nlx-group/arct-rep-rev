@@ -47,7 +47,7 @@ The results from the re-evaluation of the six systems reproduced with the revise
 For each reproduction attempt, a report with technical details can be found at:
 
 
-* [Gist](reports/gist.md)
+* [GIST](reports/gist.md)
 
 * [blcu_nlp](reports/blcu_nlp.md)
 
