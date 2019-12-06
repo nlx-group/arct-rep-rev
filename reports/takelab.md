@@ -28,7 +28,7 @@ Since we obtained an accuracy score equal to the one reported on the reference p
 
 The **replication source code** can be found at:
 
-* [Skip-though vectors](takelab_vectors/)
+* [Skip-though vectors](https://portulanclarin.net/)
 
 * [SVM classifier](takelab_svm.py)
 
