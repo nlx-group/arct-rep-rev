@@ -4,7 +4,7 @@
 
 **Authors**
 ```
-Rodrigues, João António, Ruben Branco, João Ricardo Silva, António Branco
+João António Rodrigues, Ruben Branco, João Ricardo Silva, António Branco
 ```
 
 **Paper**
