@@ -16,7 +16,7 @@ We implemented the system from scratch given the descriptions provided in the re
 We faced challenges using the original Skip-thought vectors which are provided by an independent library.
 Without knowing the specific version of Python used in the original Skip-thought implementation we tried running the library with several Python versions, however, unsuccessfully.
 
-As a solution we installed a version of [Skip-thought](ttps://pypi.org/project/skipthoughts/) pre-trained models for Pytorch, which uses the original Skip-tough models.
+As a solution we installed a version of [Skip-thought](https://pypi.org/project/skipthoughts/) pre-trained models for Pytorch, which uses the original Skip-tough models.
 Given that no description was given for the number of words from each sentence that were converted to a vectorized representation, we experimented with the length of the maximum tokens and also with a 20 and 50 units length.
 
 The exact SVM library used was not specified, so we experimented with Weka and the SVM provided in the Scikit-learn package, with the hyper-parameters described in the reference paper.
@@ -28,7 +28,7 @@ Since we obtained an accuracy score equal to the one reported on the reference p
 
 The **replication source code** can be found at:
 
-* [Skip-though vectors](https://portulanclarin.net/)
+* [Skip-though vectors](https://portulanclarin.net/repository/browse/takelab-vectors/565c15d0185411ea9ba102420a0000050f93f981ff22473aa75fd74a50f98314/#1)
 
 * [SVM classifier](takelab_svm.py)
 
